@@ -1,0 +1,20 @@
+{
+  "feedback_targets": {
+    "driver": {
+      "enabled": true,
+      "label": "Rate your Driver"
+    },
+    "trip": {
+      "enabled": true,
+      "label": "Rate your Trip"
+    },
+    "app": {
+      "enabled": true,
+      "label": "Rate the App"
+    },
+    "marshal": {
+      "enabled": false,
+      "label": "Rate the Marshal"
+    }
+  }
+}
